@@ -1,0 +1,4 @@
+
+message Message {
+    int gateIndex;
+}
